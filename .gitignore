@@ -6,3 +6,10 @@ __pycache__/
 
 sessao.session
 .env
+.env
+sessao.session
+sessao.session-journal
+__pycache__/
+*.pyc
+logs/
+.venv/
