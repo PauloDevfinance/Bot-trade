@@ -13,3 +13,10 @@ __pycache__/
 *.pyc
 logs/
 .venv/
+.env
+sessao.session
+sessao.session-journal
+__pycache__/
+*.pyc
+logs/
+.venv/
